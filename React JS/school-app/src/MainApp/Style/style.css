@@ -398,3 +398,146 @@
     font-size: 18px;
     color: #888;
 }
+
+/* Authentication Form Styles - Matching React Native authStyles */
+.auth-scroll-content {
+    padding: 20px;
+    padding-bottom: 40px;
+    flex-grow: 1;
+}
+
+.auth-header {
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+.auth-titre {
+    font-size: 28px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 8px;
+}
+
+.auth-sous-titre {
+    font-size: 16px;
+    color: #666;
+}
+
+.auth-champ-container {
+    margin-bottom: 20px;
+}
+
+.auth-label {
+    font-size: 14px;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 8px;
+    display: block;
+}
+
+.auth-input {
+    width: 100%;
+    max-width: 400px;
+    height: 50px;
+    background-color: #fff;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ddd;
+    border-radius: 8px;
+    padding: 0 15px;
+    font-size: 16px;
+    color: #333;
+}
+
+.auth-input-erreur {
+    border-color: #e74c3c;
+    border-width: 2px;
+}
+
+.auth-texte-erreur {
+    color: #e74c3c;
+    font-size: 12px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.auth-bouton {
+    background-color: darkgreen;
+    height: 50px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.25);
+    border: none;
+    cursor: pointer;
+    max-width: 400px;
+    width: 100%;
+}
+
+.auth-bouton:hover {
+    background-color: #006400;
+}
+
+.auth-texte-bouton {
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.auth-footer {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.auth-texte-footer {
+    font-size: 14px;
+    color: #666;
+}
+
+.auth-lien {
+    color: #3498db;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.auth-lien:hover {
+    text-decoration: underline;
+}
+
+/* Article Toggle Button - Matching React Native functionality */
+.article-toggle-button {
+    margin-top: 8px;
+    align-self: center;
+    background-color: #c2fbd7;
+    padding: 8px 16px;
+    border-radius: 999px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    margin-bottom: 8px;
+}
+
+.article-toggle-button:hover {
+    background-color: #a8e6c1;
+}
+
+/* Article Details Section */
+.article-details-section {
+    margin: 8px 0;
+    padding: 8px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+    width: 100%;
+}
+
+.article-details-section .article-details {
+    margin: 4px 0;
+    text-align: left;
+    width: 100%;
+}
+
