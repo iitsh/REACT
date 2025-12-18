@@ -26,3 +26,4 @@ export const produits = [
     prix: '59,50€',
   },
 ];
+
