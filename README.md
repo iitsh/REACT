@@ -227,36 +227,7 @@ graph TB
 
 ---
 
-## ⚙️ Fonctionnalités Communes
 
-```mermaid
-mindmap
-  root((🏫 School App))
-    🔐 Authentification
-      Connexion sécurisée
-      Inscription avec validation
-      Protection brute-force
-      Gestion de session
-    📚 Catalogue
-      Liste des produits
-      Recherche & filtres
-      Détails produit
-      Images dynamiques
-    🛒 Panier
-      Ajout/Suppression
-      Modification quantités
-      Calcul automatique
-      Persistance locale
-    🎨 Interface
-      Design responsive
-      Navigation intuitive
-      Animations fluides
-      Mode sombre
-    💾 Données
-      SQLite (Mobile)
-      Context API
-      État global
-```
 
 ### 🔐 Système d'Authentification
 
