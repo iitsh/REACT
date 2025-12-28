@@ -271,12 +271,8 @@ cd "REACT NATIVE/MyProject"
 npm install
 
 # 3. Lancer l'application
-npm start
+npx expo start
 
-# 4. Options de lancement
-npm run android    # Émulateur Android
-npm run ios        # Simulateur iOS (macOS uniquement)
-npm run web        # Version web via Expo
 ```
 
 ### 🌐 Application Web
@@ -291,10 +287,6 @@ npm install
 # 3. Lancer le serveur de développement
 npm run dev
 
-# 4. Autres commandes
-npm run build      # Build production
-npm run preview    # Prévisualiser le build
-npm run lint       # Vérifier le code
 ```
 
 ---
