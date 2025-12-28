@@ -38,8 +38,8 @@ Ce monorepo contient deux applications partageant la **même logique métier** e
 
 | Plateforme | Technologie | Répertoire | Status |
 |:---:|:---:|:---:|:---:|
-| 📱 **Mobile** | React Native + Expo | `REACT NATIVE/` | ✅ Production |
-| 🌐 **Web** | React + Vite | `React JS/school-app/` | ✅ Production |
+| 📱 **Mobile** | React Native + Expo | `REACT NATIVE/` |
+| 🌐 **Web** | React + Vite | `React JS/school-app/` |
 
 ---
 
