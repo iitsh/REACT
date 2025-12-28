@@ -26,8 +26,6 @@
 - [🌐 Application Web (React JS)](#-application-web-react-js)
 - [⚙️ Fonctionnalités Communes](#️-fonctionnalités-communes)
 - [🚀 Installation & Démarrage](#-installation--démarrage)
-- [📊 Statistiques du Projet](#-statistiques-du-projet)
-- [🛡️ Sécurité](#️-sécurité)
 - [👨‍💻 Auteur](#-auteur)
 
 ---
@@ -288,22 +286,6 @@ npm install
 npm run dev
 
 ```
-
----
-
-## 📊 Statistiques du Projet
-
-```mermaid
-pie showData
-    title Répartition du Code par Fonctionnalité
-    "Écrans/Pages" : 35
-    "Navigation" : 20
-    "Composants UI" : 15
-    "Gestion État" : 12
-    "Base de données" : 10
-    "Styles" : 8
-```
-
 
 
 ---
