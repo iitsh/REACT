@@ -304,61 +304,7 @@ pie showData
     "Styles" : 8
 ```
 
-### 📈 Métriques
 
-| Métrique | Mobile | Web |
-|----------|:------:|:---:|
-| **Écrans** | 5 | 5 |
-| **Composants** | 4+ | 4+ |
-| **Fichiers DB** | 3 | 3 |
-| **Dépendances** | 12 | 10 |
-| **Version React** | 19.1 | 19.1 |
-
----
-
-## 🛡️ Sécurité
-
-<table>
-<tr>
-<td width="50%">
-
-### ✅ Implémenté
-
-- 🔒 Validation côté client
-- 🛡️ Protection brute-force
-- 📝 Sanitization des entrées
-- 🔐 Mots de passe hashés
-- ⏱️ Timeout de session
-
-</td>
-<td width="50%">
-
-### 🎯 Bonnes Pratiques
-
-- ⚠️ Validation côté serveur requise
-- 🔑 Utiliser HTTPS en production
-- 🍪 Tokens JWT recommandés
-- 📊 Logging des tentatives
-- 🔄 Rotation des clés
-
-</td>
-</tr>
-</table>
-
----
-
-## 🗺️ Roadmap
-
-```mermaid
-timeline
-    title Évolution du Projet
-    section Phase 1 ✅
-        Déc 2024 : Authentification : Catalogue produits : Panier basique
-    section Phase 2 🔄
-        Jan 2025 : Paiement intégré : Notifications push : Mode hors-ligne
-    section Phase 3 📋
-        Fév 2025 : Dashboard admin : Analytics : API Backend
-```
 
 ---
 
