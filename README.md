@@ -37,7 +37,7 @@
 Ce monorepo contient deux applications partageant la **même logique métier** et offrant une expérience utilisateur native sur chaque plateforme :
 
 | Plateforme | Technologie | Répertoire |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|
 | 📱 **Mobile** | React Native + Expo | `REACT NATIVE/` |
 | 🌐 **Web** | React + Vite | `React JS/school-app/` |
 
